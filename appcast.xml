@@ -2,6 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Periscopes 0.0.3</title>
+      <pubDate>Fri, 09 Oct 2026 09:33:06 GMT</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/riptides-packages/periscopes/releases/download/v0.0.3/Periscopes.dmg" sparkle:version="37" sparkle:shortVersionString="0.0.3" length="2363711" type="application/octet-stream" sparkle:edSignature="jhsq1CfUhlwW3HSMir4vXuJSh6TmtXyPLWbfprsGBG+fd/GvGjm1rv794IEZB/chpGRnG/j+PF19m24CExGxDg==" />
+    </item>
+    <item>
       <title>Periscopes 0.0.2</title>
       <pubDate>Fri, 09 Oct 2026 09:22:16 GMT</pubDate>
       <sparkle:version>36</sparkle:version>
