@@ -3,6 +3,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Periscopes 0.0.9</title>
+      <pubDate>Wed, 25 Nov 2026 13:15:13 GMT</pubDate>
+      <sparkle:version>999</sparkle:version>
+      <sparkle:shortVersionString>0.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/riptides-packages/periscopes/releases/download/v0.0.9/Periscopes.dmg" sparkle:version="999" sparkle:shortVersionString="0.0.9" length="6522842" type="application/octet-stream" sparkle:edSignature="FEpC/lmNSXJkA/vNCKEoi1bS0MwN2XOP32GAQEECFdsWsmEK4CKT53kbJN8TagPp9AJnH47AOOh/4c0SiZiaDA=="></enclosure>
+    </item>
+    <item>
       <title>Periscopes 0.0.8</title>
       <pubDate>Tue, 24 Nov 2026 15:14:05 GMT</pubDate>
       <sparkle:version>899</sparkle:version>
@@ -127,6 +135,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <language>en</language>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zY798lZnly6R2CcDFImh57YLAsMwhq7twsAbEbmTE/iAdLJrWx+jdUoTMFWIDt2iGtFzy3pnWxJOAp+sV8JuAg==
-length: 10042
+edSignature: Cbsnjwr1t1Ody2XRFil/U9KOZVHN5wfbNloPvPMCgcEp+LlnTWqzd+ZLA4dNy9Rues0G5BdhlPebUEq8HnfXBQ==
+length: 10685
 -->
